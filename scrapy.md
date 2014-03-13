@@ -141,6 +141,9 @@ class MySpider(Spider):
 
 ```
 
+chrome xpath工具：
+https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgjoejdpjl
+
 python -m SimpleHTTPServer 8787
 
 http://doc.scrapy.org/en/latest/topics/images.html 图片下载管道
