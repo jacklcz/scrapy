@@ -146,6 +146,8 @@ https://chrome.google.com/webstore/detail/xpath-helper/hgimnogjllphhhkhlmebbmlgj
 
 python -m SimpleHTTPServer 8787
 
+//a[contains(@href,"ques/detail")]'
+
 http://doc.scrapy.org/en/latest/topics/images.html 图片下载管道
 
 
