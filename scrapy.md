@@ -7,7 +7,7 @@ Scrapy是用Python开发的一个快速,高层次的web抓取框架，用于抓�
 </br></br>
 **概述及其组件**
 
-<img src="http://blog.chedushi.com/wp-content/uploads/2013/04/scrapy_architecture-e1354537252114.png" alt="">
+<img src="http://jbcdn1.b0.upaiyun.com/2014/03/scrapy.png" alt="">
 
 </br></br>
 **start**
@@ -120,6 +120,7 @@ size = Field()
 
 
 **note**</br>
+https://github.com/jacklcz/scrapy
 scrapy crawl myspider -a category=electronics
 Spiders receive arguments in their constructors:
 
